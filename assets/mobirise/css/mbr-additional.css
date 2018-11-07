@@ -1460,6 +1460,9 @@ h6,
   font-family: 'Ubuntu', sans-serif;
   font-size: 60px;
 }
+#msg-box5-3p P {
+  text-align: left;
+}
 #header3-4d .mbr-section-title,
 #header3-4d .mbr-section-subtitle {
   text-align: center;

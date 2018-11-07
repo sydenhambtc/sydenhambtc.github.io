@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Events.html",
+    "currentPage": "grouphikes.html",
     "name": "Sydenham Bruce Trail Club",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 301,
+    "uniqCompNum": 306,
     "versionPublish": "4.8.6",
     "favicon": "",
     "noImageResize": "",
@@ -489,7 +489,7 @@
             "google": "",
             "youtube": "",
             "bgColorRadio": true,
-            "bgColor": "#282828",
+            "bgColor": "#fff",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
@@ -501,7 +501,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-7q"
+          "_anchor": "feed-8h"
         }
       ]
     },
@@ -682,7 +682,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">The Bi-Annual End-to End for the Sydenham Club consists of eight hikes over four weekends covering approximately 175 kms.</span><br></p><p> The 2019 dates are:<span style=\"font-size: 1.07rem;\"></span></p><p>&nbsp; &nbsp; • May 11 &amp; 12\n</p><p>&nbsp; &nbsp; • June 22 &amp; 23\n</p><p>&nbsp; &nbsp; • September 7 &amp; 8\n</p><p>&nbsp; &nbsp; • October 5 &amp; 6\n</p><p><br></p><p> These hikes are challenging yet gratifying.  \n</p><p>\n</p><p>The registration fee is $100 for members, $125 for non-BTC members for all eight hikes. The fee covers the cost of transportation to hike start, snacks and an end-to-end badge for those who complete all eight hikes. Hikes will go rain or shine.</p><p><br></p><p>\n</p><p>\n</p><p><b>To register:\n</b><span style=\"font-size: 1.07rem;\"></span></p><p>Registration begins February 1, 2019.  For registration, please contact Bill Snel at <a href=\"mailto:sydenhame2e@gmail.com\">sydenhame2e@gmail.com</a>. \n</p><p>\n</p><p>Payments may be made by e-transfer or cheque mailed to: P.O. Box 431, Owen Sound, Ontario, N4K 5P7.&nbsp;</p>"
+          "text": "<p><span style=\"font-size: 1.07rem;\">The Bi-Annual End-to End for the Sydenham Club consists of eight hikes over four weekends covering approximately 175 kms.</span><br></p><p> The 2019 dates are:<span style=\"font-size: 1.07rem;\"></span></p><p>&nbsp; &nbsp; • May 11 &amp; 12\n</p><p>&nbsp; &nbsp; • June 22 &amp; 23\n</p><p>&nbsp; &nbsp; • September 7 &amp; 8\n</p><p>&nbsp; &nbsp; • October 5 &amp; 6\n</p><p><br></p><p> These hikes are challenging yet gratifying.  \n</p><p>\n</p><p>The registration fee is $100 for members, $125 for non-BTC members for all eight hikes. The fee covers the cost of transportation to hike start, snacks and an end-to-end badge for those who complete all eight hikes. Hikes will go rain or shine.</p><p><br></p><p>\n</p><p>\n</p><p><b>To register:\n</b><span style=\"font-size: 1.07rem;\"></span></p><p>Registration begins February 1, 2019. For registration or questions, please contact Bill Snel at <a href=\"mailto:sydenhame2e@gmail.com\">sydenhame2e@gmail.com</a>. \n<span style=\"font-size: 1.07rem;\"></span></p><p>Payments will be accepted by e-transfer (preferred) or cheque. Payment instructions and other details will be forwarded when you register.&nbsp;</p>"
         },
         {
           "_styles": {
@@ -4909,6 +4909,58 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/map-30-friendship-trail-480x560.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "The BTC Friendship Trails Program involves matching up or “twinning” one section of the Bruce Trail with a section of trail on an international hiking trail of another country. We designate a section of our Trail in their name, and in return they designate a section of their Trail to us!\n<br>\n<br>The intent is to raise awareness and support for public footpaths, through the creation of these Friendship Trails. It also promotes the importance of hiking trails, encourages sustainable trail development and protection, knowledge sharing, culture sharing, and recognizes the international significance of creating an ongoing relationship with hiking trails around the world. It is a great honour for the BTC to represent Canada by participating in this program!\n<br>\n<br>The Lebanon Mountain Trail Friendship Trail was officially opened on September 22, 2012 on the Bayview Escarpment Nature Reserve.<br><br>A second “opening hike” was held April 15, 2015, this time including members of the Lebanese community in Canada, as well as Salam Khalife from the Board of Directors of the LMT itself, from Lebanon.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-8f"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -4917,10 +4969,10 @@
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": "20",
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4958,21 +5010,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "The BTC Friendship Trails Program involves matching up or “twinning” one section of the Bruce Trail with a section of trail on an international hiking trail of another country. We designate a section of our Trail in their name, and in return they designate a section of their Trail to us!<br><br>The intent is to raise awareness and support for public footpaths, through the creation of these Friendship Trails. It also promotes the importance of hiking trails, encourages sustainable trail development and protection, knowledge sharing, culture sharing, and recognizes the international significance of creating an ongoing relationship with hiking trails around the world. It is a great honour for the BTC to represent Canada by participating in this program!<br><br>The Lebanon Mountain Trail Friendship Trail was officially opened on September 22, 2012 on the Bayview Escarpment Nature Reserve.<br><br>A second “opening hike” was held April 15, 2015, this time including members of the Lebanese community in Canada, as well as Salam Khalife from the Board of Directors of the LMT itself, from Lebanon.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.sydenhambrucetrail.ca/pdf/LebanonMountainTrailMap.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>MAP (PDF)</strong></a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3q",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>The Lebanon Mountain Trail (LMT) is the first long-distance hiking trail in Lebanon. It runs north to south in Lebanon, meandering through or near 75 towns and villages, perched 600 - 2,000 metres above sea level. With a total length 470 km (293 miles), the LMT showcases the natural beauty and cultural wealth of Lebanon's mountains. It’s dotted by Roman ruins, temples, mosques, churches and rock-cut monasteries dating back over 1,000 years. For more information and a map of the Lebanon Trail, go to <a href=\"http://www.lebanontrail.org\" target=\"_blank\">www.lebanontrail.org</a>.</p><p><br></p><p>Other Friendship Trails on the Bruce Trail are shown at <a href=\"http://brucetrail.org/pages/trail/friendship-trails\" target=\"_blank\">brucetrail.org/pages/trail/friendship-trails</a>.</p><p>There are 9 Friendship Trails altogether, 1 in each Club section.  These are all clearly shown in the BTC Guidebook (29th edition).</p>"
+          "text": "The Lebanon Mountain Trail (LMT) is the first long-distance hiking trail in Lebanon. It runs north to south in Lebanon, meandering through or near 75 towns and villages, perched 600 - 2,000 metres above sea level. With a total length 470 km (293 miles), the LMT showcases the natural beauty and cultural wealth of Lebanon's mountains. It’s dotted by Roman ruins, temples, mosques, churches and rock-cut monasteries dating back over 1,000 years. For more information and a map of the Lebanon Trail, go to <a href=\"http://www.lebanontrail.org\" target=\"_blank\">www.lebanontrail.org</a>.<br><br>Other Friendship Trails on the Bruce Trail are shown at <a href=\"http://brucetrail.org/pages/trail/friendship-trails\" target=\"_blank\">brucetrail.org/pages/trail/friendship-trails</a>.\n<br>There are 9 Friendship Trails altogether, 1 in each Club section. These are all clearly shown in the BTC Guidebook (29th edition).<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.sydenhambrucetrail.ca/pdf/LebanonMountainTrailMap.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>MAP (PDF)</strong></a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
