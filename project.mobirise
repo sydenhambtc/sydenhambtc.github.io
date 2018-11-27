@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "grouphikes.html",
     "name": "Sydenham Bruce Trail Club",
     "theme": {
       "name": "mobirise3",
@@ -718,7 +718,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "       <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://brucetrail.org/system/downloads/0000/1191/Fall_2018_Hike_Schedule_pdf.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>FALL 2018 PDF</strong></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://brucetrail.org/system/downloads/0000/1191/Fall_2018_Hike_Schedule_pdf.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>WINTER 2018/2019 PDF</strong></a>    "
+          "buttons": "       <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://brucetrail.org/system/downloads/0000/1191/Fall_2018_Hike_Schedule_pdf.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>FALL 2018 PDF</strong></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Hike Schedule Winter 2018_2019.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>WINTER 2018/2019 PDF</strong></a>    "
         },
         {
           "_styles": {
